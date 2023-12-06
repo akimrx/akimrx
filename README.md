@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi! I'am Akim ✨ 
+
+I'am experienced SRE and Python software engineer. I also know something about frontend development.  
+I love hiking, trekking, backpacking. If you do too, subscribe to me on [Komoot](https://www.komoot.com/user/2710177891321)
+
+
+**You can find me on:**
+* [LinkedIn](https://www.linkedin.com/in/akimrx/)
+* [Instagram][https://instagram.com/akimrx)
+* [Telegram][https://t.me/akimrx]
+
 
 <!--
 **akimrx/akimrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
