@@ -6,8 +6,8 @@ I love hiking, trekking, backpacking. If you do too, subscribe to me on [Komoot]
 
 **You can find me on:**
 * [LinkedIn](https://www.linkedin.com/in/akimrx/)
-* [Instagram][https://instagram.com/akimrx)
-* [Telegram][https://t.me/akimrx]
+* [Instagram](https://instagram.com/akimrx)
+* [Telegram](https://t.me/akimrx)
 
 
 <!--
