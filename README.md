@@ -1,5 +1,5 @@
 WHOAMI
-------
+======
 I'am Akim ✨ 
 Also known as `akimrx`
   
@@ -7,7 +7,7 @@ I'am experienced Site Reliability & Software Engineer.
 Over 8 years IT experience.
 
 TECHNOLOGY STACK
-=================
+----------------
 
 ### As SRE I know
 
@@ -25,7 +25,8 @@ TECHNOLOGY STACK
 - HTML, CSS, JavaScript. A little TypeScript & NestJS.
 
 
-### Hobbies
+Other
+-----
 
 I love hiking, trekking, backpacking. If you do too, subscribe to me on [Komoot](https://www.komoot.com/user/2710177891321)
 
