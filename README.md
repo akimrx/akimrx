@@ -16,7 +16,7 @@ Over 8 years IT experience.
 - Gitlab CI, Jenkins, SonarQube, Artifactory, Nexus.
 
 
-### As software engineer I know
+### As SWE I know
 
 - Python: asyncio, aiohttp, starlette, FastAPI, SQLAlchemy, pydantic, pytests, etc.
 - HTML, CSS, JavaScript. A little TypeScript & NestJS.
