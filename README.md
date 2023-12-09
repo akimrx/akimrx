@@ -1,13 +1,10 @@
 WHOAMI
-======
+------
 I'am Akim ✨ 
 Also known as `akimrx`
   
 I'am experienced Site Reliability & Software Engineer.
 Over 8 years IT experience.
-
-TECHNOLOGY STACK
-----------------
 
 ### As SRE I know
 
