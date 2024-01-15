@@ -19,7 +19,7 @@ Over 8 years IT experience.
 ### As SWE I know
 
 - Python: asyncio, aiohttp, starlette, FastAPI, SQLAlchemy, pydantic, pytests, etc.
-- HTML, CSS, JavaScript, TypeScript. A little NestJS.
+- HTML, CSS, JavaScript, TypeScript, React, Redux (RTK). A little NestJS.
 
 
 Other
