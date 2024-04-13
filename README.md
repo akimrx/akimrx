@@ -6,18 +6,18 @@ Also known as `akimrx`
 I'am experienced Site Reliability & Software Engineer.  
 Over 8 years commercial IT experience.
 
-### As SRE I know
+### As SRE I work with
 
-- Linux, TCP/IP, Docker, Kubernetes, NGINX (also, openresty).
+- Linux, TCP/IP, Docker, Kubernetes, HAProxy, NGINX (also, Openresty).
 - Redis, RabbitMQ, MongoDB, PostgreSQL, MySQL, Clickhouse.
-- Prometheus, VictoriaMetrics, Loki, Grafana, Opentelemetry, ELK, Sentry.
-- Ansible, Terraform.
+- Prometheus (VictoriaMetrics), Loki, Grafana, Opentelemetry, ELK, Sentry.
+- Ansible, Terraform, Helm.
 - Vault, Consul.
 - Gitlab CI, Jenkins, ArgoCD, SonarQube, Artifactory, Nexus.
-- Yandex Cloud, Selectel
+- Yandex Cloud, Selectel, Cloudflare.
 
 
-### As SWE I know
+### As SWE I work with
 
 - Python: asyncio, aiohttp, starlette, FastAPI, SQLAlchemy, pydantic, pytests, etc.
 - HTML, CSS, JavaScript, TypeScript, React, Redux (RTK). A little NestJS.
