@@ -14,7 +14,7 @@ Over 8 years commercial IT experience.
 - Ansible, Terraform, Packer, Kaniko, Helm.
 - Vault, Consul.
 - Gitlab CI, Jenkins, ArgoCD, SonarQube, Artifactory, Nexus.
-- AWS, GCP, Yandex Cloud, Selectel, Cloudflare.
+- AWS, GCP, Digital Ocean, Yandex Cloud, Selectel, Cloudflare.
 
 
 ### As SWE I work with
