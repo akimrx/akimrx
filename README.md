@@ -11,10 +11,10 @@ Over 8 years commercial IT experience.
 - Linux, TCP/IP, Docker, Kubernetes, HAProxy, NGINX (also, Openresty).
 - Redis, RabbitMQ, MongoDB, PostgreSQL, MySQL, Clickhouse.
 - Prometheus (VictoriaMetrics), Loki, Grafana, Opentelemetry, ELK, Sentry.
-- Ansible, Terraform, Helm.
+- Ansible, Terraform, Packer, Kaniko, Helm.
 - Vault, Consul.
 - Gitlab CI, Jenkins, ArgoCD, SonarQube, Artifactory, Nexus.
-- Yandex Cloud, Selectel, Cloudflare.
+- AWS, GCP, Yandex Cloud, Selectel, Cloudflare.
 
 
 ### As SWE I work with
