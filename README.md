@@ -9,7 +9,7 @@ Over 8 years commercial IT experience.
 ### As SRE I work with
 
 - Linux, TCP/IP, Docker, Kubernetes, HAProxy, NGINX (also, Openresty).
-- Redis, RabbitMQ, MongoDB, PostgreSQL, MySQL, Clickhouse.
+- Redis, RabbitMQ, Kafka, MongoDB, PostgreSQL, MySQL, Clickhouse.
 - Prometheus (VictoriaMetrics), Loki, Grafana, Opentelemetry, ELK, Sentry.
 - Ansible, Terraform, Packer, Kaniko, Helm.
 - Vault, Consul.
