@@ -1,9 +1,9 @@
 whoami
 ------
-I'am Akim ✨   
+I'm Akim ✨   
 Also known as `akimrx`
   
-I'am experienced Site Reliability & Software Engineer.  
+I'am experienced Site Reliability & Software Engineer. Know how to build reliable systems.
 Over 8 years commercial IT experience.
 
 ### As SRE I work with
