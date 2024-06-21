@@ -27,7 +27,7 @@ Other
 -----
 
 I love hiking, trekking, backpacking. If you do too, subscribe to me on [Komoot](https://www.komoot.com/user/2710177891321)
-
+Sometimes I write small articles on [my blog](https://notes.akimrx.ru)
 
 ### You can find me on
 * [LinkedIn](https://www.linkedin.com/in/akimrx/)
