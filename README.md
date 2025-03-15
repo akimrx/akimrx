@@ -4,7 +4,7 @@ I'm Akim ✨
 Also known as `akimrx`
   
 I'm experienced Site Reliability Engineer and know how to build reliable systems.  
-Over 8 years commercial IT experience.
+About 10 years commercial IT experience.
 
 ## The stack of technologies that I had to work with
 
