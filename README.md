@@ -21,8 +21,12 @@ About 10 years commercial IT experience.
 
 ### As SWE
 
+**Main stack:**  
 - Python: asyncio, aiohttp, starlette, FastAPI, SQLAlchemy, pydantic, pytests, etc.
-- HTML, CSS, JavaScript, TypeScript, React, Redux (RTK), Next.JS. A little NestJS.
+- TypeScript / JavaScript, React, Redux (RTK), Next.JS, HTML, CSS.
+  
+**To a lesser extent:**  
+Go, lua, NextJS
 
 
 Other
