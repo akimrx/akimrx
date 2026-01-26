@@ -23,10 +23,10 @@ About 10 years commercial IT experience.
 
 **Main stack:**  
 - Python: asyncio, aiohttp, starlette, FastAPI, SQLAlchemy, pydantic, pytests, etc.
-- TypeScript / JavaScript, React, Redux (RTK), Next.JS, HTML, CSS.
+- JavaScript, TypeScript (React, Redux, RTK Query, Next.JS), HTML, CSS.
   
 **To a lesser extent:**  
-Go, lua, NextJS
+- Go, lua, NextJS
 
 
 Other
